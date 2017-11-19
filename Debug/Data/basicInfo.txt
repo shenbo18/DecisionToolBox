@@ -1,0 +1,2 @@
+1 joint 4 6 7
+2 joint 1 7 2

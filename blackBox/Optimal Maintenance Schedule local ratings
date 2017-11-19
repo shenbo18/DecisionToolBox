@@ -1,0 +1,55 @@
+Final Condition:4
+Best Estimate Cost:138007
+     Year  RepairID
+      86      15       5
+      76      15       5
+      66      15       5
+      56      15       5
+      46      15       4
+      32      15       4
+      18      15       4
+       4      15       4
+Final Condition:5
+Best Estimate Cost:138009
+     Year  RepairID
+      90      15       5
+      80      15       5
+      70      15       5
+      60      15       5
+      50      15       5
+      40      15       5
+      30      15       5
+      20      15       5
+      10      15       5
+       0      15       5
+Final Condition:6
+Best Estimate Cost:144909
+     Year  RepairID
+      95      15       6
+      90      15       5
+      80      15       5
+      70      15       5
+      60      15       5
+      50      15       5
+      40      15       5
+      30      15       5
+      20      15       5
+      10      15       5
+       0      15       5
+Final Condition:7
+Best Estimate Cost:1.#INF
+     Year  RepairID
+      93       0       7
+      86       0       7
+      79       0       7
+      72       0       7
+      65       0       7
+      58       0       7
+      51       0       7
+      44       0       7
+      37       0       7
+      30       0       7
+      23       0       7
+      16       0       7
+       9       0       7
+       2       0       7
